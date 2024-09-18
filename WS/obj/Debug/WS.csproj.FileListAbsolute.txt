@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\Treino\WS\WS\obj\Debug\WS.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Treino\WS\WS\obj\Debug\WS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Treino\WS\WS\obj\Debug\WS.FrmMedico.resources
+C:\Users\Aluno\Desktop\Treino\WS\WS\obj\Debug\WS.FrmPaciente.resources
+C:\Users\Aluno\Desktop\Treino\WS\WS\obj\Debug\WS.FrmPrincipal.resources
+C:\Users\Aluno\Desktop\Treino\WS\WS\obj\Debug\WS.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Treino\WS\WS\obj\Debug\WS.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Treino\WS\WS\obj\Debug\WS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Treino\WS\WS\DbAgendamento.mdf
+C:\Users\Aluno\Desktop\Treino\WS\WS\DbAgendamento_log.ldf
+C:\Users\Aluno\Desktop\Treino\WS\WS\WS.exe.config
+C:\Users\Aluno\Desktop\Treino\WS\WS\obj\Debug\WS.exe
+C:\Users\Aluno\Desktop\Treino\WS\WS\obj\Debug\WS.pdb
+C:\Users\Aluno\Desktop\Treino\WS\WS\WS.exe
+C:\Users\Aluno\Desktop\Treino\WS\WS\WS.pdb
+C:\Users\Aluno\Desktop\Treino\WS\WS\obj\Debug\WS.FrmListagem.resources
